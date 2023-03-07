@@ -1,0 +1,14 @@
+{
+  "name": "tareas-plus",
+  "version": "1.0.0",
+  "description": "Gestión de tareas y requerimientos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "backend-plus": "^1.17.11"
+  }
+}
